@@ -1,0 +1,69 @@
+TruckReportTruck_No.Total_waittimeTotal_busytime%_of_busytime#_packages%_of_occupiedNon_delivery_time%_of_delivering_time
+1	63	36	36.36	3	66.66	26	27.77
+2	67	32	32.32	2	100.0	17	46.87
+3	49	50	50.5	4	85.0	26	48.0
+4	37	62	62.62	6	78.33	35	43.54
+5	54	45	45.45	5	76.0	32	28.88
+6	26	73	73.73	4	70.0	39	46.57
+7	18	81	81.81	7	50.47	48	40.74
+8	20	79	79.79	6	70.0	43	45.56
+9	40	59	59.59	5	55.0	33	44.06
+10	6	93	93.93	8	40.62	53	43.01
+PackageReportPackage_No.Wait_timePickup_timeDelivery_timeOn_timeLateness
+1	0	1	4	yes	0
+2	2	3	5	yes	0
+3	2	5	10	yes	0
+4	3	6	15	yes	0
+5	6	10	13	no	3
+6	8	12	20	no	5
+7	2	7	10	yes	0
+8	5	12	18	yes	0
+9	5	13	22	yes	0
+10	3	11	14	yes	0
+11	3	11	17	no	2
+12	7	16	24	no	4
+13	6	15	23	no	3
+14	3	12	14	yes	0
+15	9	19	25	no	5
+16	6	17	19	no	4
+17	11	23	29	no	9
+18	9	22	27	yes	0
+19	8	21	24	no	3
+20	12	26	29	no	9
+21	16	30	38	no	13
+22	14	29	38	no	5
+23	12	32	35	no	10
+24	13	35	38	no	6
+25	10	33	38	no	4
+26	9	34	43	no	3
+27	6	33	34	yes	0
+28	5	33	38	yes	0
+29	7	37	40	yes	0
+30	0	35	38	yes	0
+31	5	42	48	yes	0
+32	3	41	47	yes	0
+33	5	45	48	no	3
+34	2	45	50	yes	0
+35	5	50	56	no	1
+36	2	49	51	yes	0
+37	2	52	56	yes	0
+38	5	57	66	yes	0
+39	5	60	62	no	2
+40	3	63	65	yes	0
+41	5	67	79	yes	0
+42	2	67	75	yes	0
+43	1	68	72	yes	0
+44	3	73	81	no	1
+45	5	80	85	yes	0
+46	8	85	93	no	14
+47	5	85	87	no	2
+48	3	83	86	yes	0
+49	1	82	88	no	4
+50	1	83	91	no	6
+Average Package Information 
+Average wait time: 5.46
+On time packages: 26
+Late packages: 24
+Average lateness of late ones: 5.04166666666667
+Average lateness of all: 2.42
+

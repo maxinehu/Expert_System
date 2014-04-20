@@ -1,0 +1,45 @@
+TruckReportTruck_No.Total_waittimeTotal_busytime%_of_busytime#_packages%_of_occupiedNon_delivery_time%_of_delivering_time
+1	192	24	11.11	2	80.0	6	75.0
+2	193	23	10.64	4	70.0	6	73.91
+3	190	26	12.03	3	80.0	4	84.61
+4	190	26	12.03	5	72.0	9	65.38
+5	195	21	9.72	4	35.0	4	80.95
+6	153	63	29.16	12	53.33	12	80.95
+PackageReportPackage_No.Wait_timePickup_timeDelivery_timeOn_timeLateness
+1	0	1	4	yes	0
+2	2	3	5	yes	0
+3	0	4	7	yes	0
+4	0	4	12	no	2
+5	2	7	10	yes	0
+6	1	9	12	yes	0
+7	0	8	14	yes	0
+8	0	9	17	yes	0
+9	3	12	20	yes	0
+10	6	15	17	no	1
+11	4	14	20	yes	0
+12	3	14	16	yes	0
+13	6	18	24	yes	0
+14	0	20	25	yes	0
+15	1	31	32	yes	0
+16	0	40	43	yes	0
+17	1	66	69	yes	0
+18	0	80	83	yes	0
+19	1	91	95	yes	0
+20	4	114	117	yes	0
+21	2	112	117	yes	0
+22	3	123	132	yes	0
+23	3	153	156	no	1
+24	3	153	159	yes	0
+25	3	153	162	yes	0
+26	0	180	182	yes	0
+27	0	190	192	yes	0
+28	0	200	212	yes	0
+29	1	201	209	yes	0
+30	2	212	216	yes	0
+Average Package Information 
+Average wait time: 1.7
+On time packages: 27
+Late packages: 3
+Average lateness of late ones: 1.33333333333333
+Average lateness of all: 0.133333333333333
+
