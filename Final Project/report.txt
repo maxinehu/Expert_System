@@ -1,8 +1,0 @@
-Submit your final project report here. This should be a SINGLE document (Word, PDF, TXT) that contains:
-
-A description of the project (what were you asked to do)
-Your design philosophy in creating your solution (how did you go about solving the problem)
-The specific changes that you made since Part 1 (either correct problems or extensions to try to improve performance)
-The rational for these changes (why were these made)
-The improvements that have resulted from changes in your program (both good and bad). Here you should compare your first and second versions of your program to each other.
-What would you do differently if you had a chance to start over.
